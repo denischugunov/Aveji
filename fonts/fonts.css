@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Helvetica';
+  src:
+  url(./helvetica_regular.woff2) format('woff2'),
+  url(./helvetica_regular.woff) format('woff'),
+  url(./helvetica_regular.ttf) format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Helvetica';
+  src:
+  url(./helvetica_bold.woff2) format('woff2'),
+  url(./helvetica_bold.woff) format('woff'),
+  url(./helvetica_bold.ttf) format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src:
+  url(./Roboto-Regular.woff2) format('woff2'),
+  url(./Roboto-Regular.woff) format('woff'),
+  url(./Roboto-Regular.ttf) format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
